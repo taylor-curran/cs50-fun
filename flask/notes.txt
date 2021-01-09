@@ -1,0 +1,6 @@
+flask implements an MVC design pattern
+- Standing for Model, View, and Controller
+- Controller is where you write most of your python code.
+---- I think backend code is controller code.
+---- View -> user interface
+---- Model -> Data Management Methodology
